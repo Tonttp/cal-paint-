@@ -1,0 +1,6 @@
+{
+  "name": "เครื่องมือคำนวณพื้นที่ผิวทาสีและ BOQ โครงสร้างเหล็ก",
+  "description": "ระบบคำนวณพื้นที่ผิวเหล็ก ปริมาณสี งบประมาณ และประเมินราคา BOQ แยกหน้าการทำงานและแบ่งฟังก์ชันเป็นระเบียบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
